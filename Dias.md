@@ -1,16 +1,16 @@
 # Benemerita Universidad Autonoma de Puebla
 ## Facultad de Ciencias Fisicio Matemáticas
 ### Licenciatura en Actuaria
-#### Programaci-n-actuarial-III
+#### Programación-Actuarial-III
 
 Primavera 2016
 
 Días de la semana
 
-** Lunes 
+* Lunes 
 * Martes
 * Miercoles
 * Jueves
 * Viernes
-* Sábado
+* Sábadoin
 * Domingo

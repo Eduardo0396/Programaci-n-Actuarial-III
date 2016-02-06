@@ -1,4 +1,17 @@
 
-# Las materias que e aprovado
+# Las materias que e aprobado
 
-* 1.Matematicas Basicas 7
+* 1.-Matematicas Basicas 7
+* 2.-Progra I 8
+* 3.-Progra II 10
+* 4.-Introduccion a la profesión actuarial 7
+* 5.-Ingles I 8
+* 6.-DHPC 9
+* 7.-Teoria del interes I 8
+* 8.-Teoria del interes II 7
+* 9.-Macroeconomia 7
+* 10.-Microeconomia 6
+* 11.-Formación Humana y Social 8
+* 12.-Probelmas de matematicas basicas 7
+* 13.-Teoria de ecuaciones 8
+

@@ -1,0 +1,26 @@
+---
+title: "Materias por Semestre"
+author: "Eduardo Emilio Amaro López"
+output: html_document
+---
+
+# Materias que he aprobado
+
+## Primer Semestre
+* DHPC 9
+* Progra I 8
+* Introduccion a la profesión actuarial 7
+
+## Segundo Semestre
+* Matematicas Basicas 7
+* Problemas de matematicas basicas 7
+* Microeconomia 6
+* Formación humana y social 8
+* Teoria del interes 8
+
+## Tercer Semestre
+* Teoria de ecuaciones 8
+* Teoria del interes 7
+* Progra II 10
+* Macroeconomia 7
+* Ingles I 8

@@ -1,8 +1,5 @@
 
 # Las materias que e aprobado
-## sajkd
-### fjdkv
-#### djksv
 
 * 1.-Matematicas Basicas 7
 * 2.-Progra I 8

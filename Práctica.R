@@ -1,4 +1,4 @@
-x <- 63
+x <- runif(1,1,100)
 if (1<x & x<10){
   w <- "¿Que pedo we?"
 } else if (11<x & x<30){
